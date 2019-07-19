@@ -1,4 +1,4 @@
-Привет, Мир!
+Hello, World!
 line 1
 line 2
 line 
